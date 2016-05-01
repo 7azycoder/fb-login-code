@@ -1,0 +1,10 @@
+[16-Feb-2016 16:46:05 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/aviisamra/public_html/lovepreet/inc/base_facebook.php on line 1249
+[17-Feb-2016 09:21:14 UTC] CSRF state token does not match one provided.
+[17-Feb-2016 09:22:40 UTC] CSRF state token does not match one provided.
+[17-Feb-2016 09:24:46 UTC] CSRF state token does not match one provided.
+[18-Feb-2016 09:05:20 UTC] CSRF state token does not match one provided.
+[18-Feb-2016 09:06:06 UTC] CSRF state token does not match one provided.
+[18-Feb-2016 09:13:13 UTC] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/aviisamra/public_html/lovepreet/inc/base_facebook.php on line 1249
+[18-Feb-2016 15:17:34 UTC] CSRF state token does not match one provided.
